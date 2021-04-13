@@ -29,5 +29,10 @@ docker build -t upload/pass:1(your subject) .
 ```
 
 # start.sh用法
+
 chmod 755 start.sh
 ./start.sh (题目数如01) （映射端口号）
+
+## install.sh
+
+一键部署所有镜像
