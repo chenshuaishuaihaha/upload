@@ -29,7 +29,7 @@ if(isset($_POST['submit'])){
         </li>
         <li>
             <h3>上传区</h3>
-            <form action="?save_path=../upload/" enctype="multipart/form-data" method="post">
+            <form action="?save_path=./upload/" enctype="multipart/form-data" method="post">
                 <p>请选择要上传的图片：<p>
                 <input class="input_file" type="file" name="upload_file"/>
                 <input class="button" type="submit" name="submit" value="上传"/>
