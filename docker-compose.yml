@@ -1,0 +1,86 @@
+version: '2'
+services: 
+    upload-1:
+        image: upload/pass:1
+        ports: 
+            - "10001:80"
+    upload-2:
+        image: upload/pass:2
+        ports: 
+            - "10002:80"
+    upload-3:
+        image: upload/pass:3
+        ports: 
+            - "10003:80"      
+    upload-4:
+        image: upload/pass:4
+        ports: 
+            - "10004:80"
+    upload-5:
+        image: upload/pass:5
+        ports: 
+            - "10005:80"
+    upload-6:
+        image: upload/pass:6
+        ports: 
+            - "10006:80"
+    upload-7:
+        image: upload/pass:7
+        ports: 
+            - "10007:80"
+    upload-8:
+        image: upload/pass:8
+        ports: 
+            - "10008:80"
+    upload-9:
+        image: upload/pass:9
+        ports: 
+            - "10009:80"     
+    upload-10:
+        image: upload/pass:10
+        ports: 
+            - "10010:80"
+    upload-11:
+        image: upload/pass:11
+        ports: 
+            - "10011:80"
+    upload-12:
+        image: upload/pass:12
+        ports: 
+            - "10012:80"
+    upload-13:
+        image: upload/pass:13
+        ports: 
+            - "10013:80"
+    upload-14:
+        image: upload/pass:14
+        ports: 
+            - "10014:80"
+    upload-15:
+        image: upload/pass:15
+        ports: 
+            - "10015:80"
+    upload-16:
+        image: upload/pass:16
+        ports: 
+            - "10016:80"
+    upload-17:
+        image: upload/pass:17
+        ports: 
+            - "10017:80"
+    upload-18:
+        image: upload/pass:18
+        ports: 
+            - "10018:80"
+    upload-19:
+        image: upload/pass:19
+        ports: 
+            - "10019:80"
+    upload-20:
+        image: upload/pass:20
+        ports: 
+            - "10020:80"
+    upload-21:
+        image: upload/pass:21
+        ports: 
+            - "10021:80"
